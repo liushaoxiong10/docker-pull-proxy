@@ -1,1 +1,3 @@
 homeassistant/home-assistant:2024.6 registry.cn-hangzhou.aliyuncs.com/liushaoxiong/home-assistant:2024.6
+louislam/dockge:1.4.2 registry.cn-hangzhou.aliyuncs.com/liushaoxiong/dockge:1.4.2
+jc21/nginx-proxy-manager:2.11.2 registry.cn-hangzhou.aliyuncs.com/liushaoxiong/nginx-proxy-manager:2.11.2
